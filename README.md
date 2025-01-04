@@ -1,9 +1,10 @@
 <img alt="Poke TCGP Tracker" src="https://ptcgp.codetrigger.cl/resources/logo/logo_v1.1_white_bg_rounded.png" style="width:15%;" />
 
 <h1> Pokémon TCGP Tracker</h1>
+
 <img alt="Current Version: v1.0.8a" src="https://img.shields.io/badge/Current_Version-v1.0.8a-8A2BE2?labelColor=grey&logo=github">
 
-
+<img alt="Avaliable on Android" src="https://img.shields.io/badge/Android-.apk-49bd3e?labelColor=grey&logo=android">
 
 
 Pokémon TCGP Tracker is an app that will provide you with a summary of your collection, reports on which booster pack is best to open, acquisition of special cards, and much more. 
