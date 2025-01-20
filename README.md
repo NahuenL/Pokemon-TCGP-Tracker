@@ -12,7 +12,9 @@
   <a href="https://play.google.com/store/apps/details?id=com.nahuen.apptrackerpkmpockettcgp" target="_blank">
     <img alt="Avaliable on Play Store" src="https://img.shields.io/badge/Google-Play_Store-49bd3e?logo=googleplay">
   </a>
+  
 </div>
+<br>
 <p>
   Pokémon TCGP Tracker is an app that will provide you with a summary of your collection, reports on which booster pack is best to open, acquisition of special cards, and much more. 
   We have availability for Android, but we will soon have a version for iOS as well as many other features. Stay tuned!
@@ -43,4 +45,6 @@ v1.0.7a:
 > is the property of Pokémon and any entity involved with the TCG (Trading Card Game) franchise. We do not claim intellectual property rights
 > over this material. This application is not affiliated, endorsed, or
 > sponsored by Nintendo, Pokémon, Creatures Inc., Niantic, The Pokémon Company, DeNa, or any of their subsidiaries.
+
+
 
