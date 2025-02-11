@@ -2,7 +2,7 @@
 
 <h1> Pokémon TCGP Tracker</h1>
 
-<img alt="Current Version: v1.0.8a" src="https://img.shields.io/badge/Current_Version-v1.0.8a-8A2BE2?labelColor=grey&logo=github">
+<img alt="Current Version: v1.0.8a" src="https://img.shields.io/badge/Current_Version-v1.0.9a-8A2BE2?labelColor=grey&logo=github">
 
 
 <div align="left">
@@ -29,6 +29,10 @@
 
 
 ## Changelog
+
+v1.0.9a:
+
+- __Added support multiples expansion summary__
 
 v1.0.8a:
 
